@@ -1,2 +1,2 @@
 # Internet-Of-Things
-Internet of things project to test csv-python integration
+Internet of things project containing basic program to test a csv-python integration 
